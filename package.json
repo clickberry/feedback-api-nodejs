@@ -1,6 +1,6 @@
 {
   "name": "feedback-api-nodejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Feedback API micro-service on Node.js",
   "main": "app.js",
   "dependencies": {
